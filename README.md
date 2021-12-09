@@ -4,5 +4,5 @@ My name is Fernando, and i'm a brazilian Systems Analysis & Development student.
 
 - 💜 I work at Hostinger
 - 🔭 I’m currently studying at FATEC Itapetininga
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and JavaScript
 - ⚡ Fun fact: I love playing RPG games such as Dark Souls and Witcher 3 e.e
